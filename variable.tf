@@ -5,12 +5,12 @@ variable "aws_region" {
 
 variable "access_key" {
   type = string
-  default = "AKIAW55KAGIJV4XZDAKP"
+  default = ""
 }
 
 variable "secret_key" {
   type = string
-  default = "55Wy99zG8QmZZINnVScK3nyhjOXjaLe/+sSkIHVT"
+  default = ""
 }
 
 variable "instance_name" {
